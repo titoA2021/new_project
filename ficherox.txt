@@ -1,0 +1,1 @@
+Este es mi fihero de texto para aprender los comandos vim.
